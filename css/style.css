@@ -2,7 +2,7 @@
 
 /* Hero */
 #hero {
-    background-image: linear-gradient(rgba(50, 50, 50, 0.6), rgba(50, 50, 50, 0.6)), url('../images/hero.webp');
+    background-image: linear-gradient(rgba(50, 50, 50, 0.6), rgba(50, 50, 50, 0.6)), url('../images/hero.png');
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
