@@ -29,7 +29,7 @@
 #hero a {letter-spacing: .3rem;}
 
 /* Banner */
-#banner {background-color: #184ca0;}
+#banner {background-color: #00CCAE;}
 #banner h2 {
     font-family: "Cinzel", serif;
     font-style: normal;
@@ -40,22 +40,22 @@
 #amenities h2 {
     font-family: "Cinzel", serif;
     font-style: normal;
-    color: #184ca0;
+    color: #00CCAE;
 }
-#amenities .card {border: 1px solid #184ca0;}
+#amenities .card {border: 1px solid #00CCAE;}
 
 /* Suites */
 #suites h2 {
-    color: #184ca0;
+    color: #00CCAE;
     font-family: "Cinzel", serif;
 }
 #suites .col-md-5 p {margin-top: 250px;}
-#suites .card {border: 1px solid #184ca0;}
+#suites .card {border: 1px solid #00CCAE;}
 
 /* Home */
-#home {background-color: #184ca0;}
+#home {background-color: #00CCAE;}
 #home .card {
-    background-color: #184ca0;
+    background-color: #00CCAE;
     color: #FFF;
     border: 1px solid #FFF;
 }
@@ -77,11 +77,11 @@
 
 /* Footer */
 #footer {
-    background-color: #184ca0;
+    background-color: #00CCAE;
 }
 
 #footer .card {
-    background-color: #184ca0;
+    background-color: #00CCAE;
     border: 1px solid #FFF;
 }
 
